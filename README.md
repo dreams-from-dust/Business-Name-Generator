@@ -16,7 +16,7 @@ A simple and fun web application that generates unique business names with a sin
 
 ### Live Demo
 
-You can view a live demonstration of this project here: [https://dreams-from-dust.github.io/Business-Name-Generator/]https://dreams-from-dust.github.io/Business-Name-Generator/)
+You can view a live demonstration of this project here: [https://dreams-from-dust.github.io/Business-Name-Generator/](https://dreams-from-dust.github.io/Business-Name-Generator/)
 
 ### Getting Started
 
