@@ -20,4 +20,4 @@ You can view a live demonstration of this project here: [https://dreams-from-dus
 
 ### Getting Started
 
-To view the project, simply clone this repository to your local machine and open the `index.html` file in your web browser.
+Simply clone this repository to your local machine and open the `index.html` file in your web browser.
